@@ -1,0 +1,22 @@
+{
+  "name": "pappu",
+  "version": "1.0.0",
+  "description": "learn earn",
+  "main": "index.js",
+  "scripts": {
+    "test": "abc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dynamic532/FirstEver.git"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "pappu bhai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dynamic532/FirstEver/issues"
+  },
+  "homepage": "https://github.com/Dynamic532/FirstEver#readme"
+}
